@@ -2,7 +2,7 @@
 
 ## Informations étudiant
 - Vander Heyden Mathis
-- mathis.vander.student.vinci.be 
+- mathis.vander@student.vinci.be 
 - **Repository GitHub :** https://github.com/mathishv/IPL_social
 
 ## Description du projet
