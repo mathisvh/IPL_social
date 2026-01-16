@@ -1,8 +1,8 @@
 # IPL social
 
 ## Informations étudiant
-- **Nom / Prénom :** PRENOM NOM  
-- **Email Vinci :** prenom.nom@vinci.be  
+- Vander Heyden Mathis
+- mathis.vander.student.vinci.be 
 - **Repository GitHub :** https://github.com/mathishv/IPL_social
 
 ## Description du projet
